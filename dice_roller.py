@@ -13,7 +13,7 @@ def main():
     else:
       print(f'You rolled a {roll}')
     dice_sum += roll
-  print(f'Sum of dice is {dice_sum}')
+  print(f'total of dice is {dice_sum}')
 
 
 
